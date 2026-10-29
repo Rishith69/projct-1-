@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 node_modules/
 dist/
 data/
@@ -7,13 +7,3 @@ data/
 *.sqlite-shm
 *.sqlite-wal
 *.tsbuildinfo
-=======
-node_modules/
-dist/
-data/
-.env
-*.sqlite
-*.sqlite-shm
-*.sqlite-wal
-*.tsbuildinfo
->>>>>>> 9d894d2412546da429ba488a8afded6f84b78fe4
